@@ -1,0 +1,1 @@
+augur align --sequences no_ref.fasta --reference-sequence reference/reference.fasta --nthreads 20 --method mafft --output aligned
