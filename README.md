@@ -8,5 +8,5 @@ This ended in 588 sequences including the reference (M73218) and NC_015521.1 Cut
 4. Perform MSA using MAFFT and M73218 as reference sequence.
 5. Mask sites 6355-6985 and 8344 to 8347 included in the publication due to hyper variability.
 6. Create a maximum likelihood tree with MF mode using iqtree.
-7. Visualize tree (ggtree) while using NC_015521.1 and remove the outgroup.
+7. Visualize tree (ggtree) while using NC_015521.1 as an outgroup and removing it later.
 8. Generate metadata information using from sequences' gbk file.
