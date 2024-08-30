@@ -14,10 +14,10 @@ def modify_positions_in_fasta(input_file, output_file, start, end):
         
  
 # Usage
-input_file = "/home/mahmadi/hepE_seqs/hypervariable_removed_sequences.fasta"  # Replace with your input file path
-output_file = "/home/mahmadi/hepE_seqs/hypervariable_removed_sequences.fasta"  # Replace with your desired output file path
-start_position = 8344 # 0-based index, 10th nucleotide
-end_position = 8347  # 0-based index, 20th nucleotide
+input_file = "/home/mahmadi/hepE_seqs/mafft_outgroup_hypervariable_removed_sequences.fasta"  # Replace with your input file path
+output_file = "/home/mahmadi/hepE_seqs/mafft_outgroup_hypervariable_removed_sequences.fasta"  # Replace with your desired output file path
+start_position = 6355 # 0-based index, 10th nucleotide
+end_position = 6985  # 0-based index, 20th nucleotide
 
 modify_positions_in_fasta(input_file, output_file, start_position, end_position)
 
