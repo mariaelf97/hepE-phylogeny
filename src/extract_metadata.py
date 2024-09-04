@@ -31,7 +31,7 @@ def parse_genbank_file(file_path):
     
     # Parse the GenBank file
     for record in SeqIO.parse(file_path, "genbank"):
-        strain, sample_date, host, sample_ID, geolocation = extract_geolocation_and_id(record)
+        strain, sample_date, host, sample_ID, geolocation = extract_metadata(record)
         data.append({"strain": strain, "sample_date": sample_date,
                      "host":host,"accession":sample_ID, "country": geolocation})
     
@@ -48,4 +48,4 @@ df = parse_genbank_file(file_path)
 
 # Display the DataFrame
 # Optionally, save the DataFrame to a CSV file
-df.to_csv("geolocations.csv", index=False)
+df.to_csv("metadata/metadata.tsv", index=False, sep="\t")
