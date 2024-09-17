@@ -29,4 +29,4 @@
 
 ### Phylogenetic Tree
 
-[![Tree](https://github.com/mariaelf97/hepA-phylogeny/blob/main/tree/hepA_tree.png)](https://github.com/mariaelf97/hepA-phylogeny/blob/main/tree/hepA_tree.png)
+[![Tree](https://github.com/mariaelf97/hepE-phylogeny/blob/main/tree/tree.png)
