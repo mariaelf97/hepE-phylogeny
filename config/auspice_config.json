@@ -1,0 +1,20 @@
+{
+    "title": "Hepatitis-E Genomic Surveillance",
+    "maintainers": [
+      {"name": "Andersen lab", "url": "https://andersen-lab.com"}
+    ],
+    "build_url": "https://nextstrain.org/community/mariaelf97/hepE-phylogeny",
+    "colorings": [
+      {
+        "key": "genotype",
+        "title": "genotype",
+        "type": "categorical"
+      }
+    ],
+    "display_defaults": {
+      "color_by": "genotype"
+    },
+    "filters": [
+      "genotype"
+    ]
+  }

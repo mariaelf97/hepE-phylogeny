@@ -1,0 +1,4653 @@
+{
+  "generated_by": {
+    "program": "augur",
+    "version": "26.0.0"
+  },
+  "models": {},
+  "nodes": {
+    "AB073912.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB074915.3": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB074917.3": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB074918.2": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB074920.3": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB080575.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB089824.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB091394.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB091395.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB097811.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB097812.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB099347.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB108537.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB161717.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB161718.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB161719.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB189070.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB189071.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB189072.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB189073.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB189074.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB189075.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB193176.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB193177.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB193178.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB197673.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB197674.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB200239.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB220971.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB220972.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB220973.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB220974.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB220975.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB220976.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB220977.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB220978.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB220979.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB222182.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB222183.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB222184.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB236320.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB246676.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB248520.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB248521.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB248522.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB253420.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB290312.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB290313.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB291951.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB291952.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB291953.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB291954.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB291955.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB291956.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB291957.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB291958.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB291959.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB291960.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB291961.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB291962.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB291963.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB291964.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB291965.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB291966.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB291967.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB291968.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB301710.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB362839.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB362840.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB362841.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB362842.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB362843.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB369687.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB369688.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB369689.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB369690.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB369691.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB425830.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB425831.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB437316.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB437317.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB437318.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB437319.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB443623.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB443624.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB443625.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB443626.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB443627.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB480825.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB481226.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB481227.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB481228.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB481229.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB521805.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB521806.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB573435.2": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB591733.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB591734.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB593690.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB602439.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB602440.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB602441.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB630970.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB630971.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB698071.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB698654.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB720034.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB720035.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB740220.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB740221.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB740222.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB740232.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB780450.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB780451.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB780452.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB780453.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB850879.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB856243.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB909124.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AB909125.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AF051830.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AF060668.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AF060669.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AF076239.3": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AF082843.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AF185822.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AF444002.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AF444003.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AF455784.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AF459438.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AJ272108.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AP003430.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AY115488.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AY204877.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AY230202.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AY575859.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AY594199.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "AY723745.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "D10330.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "D11093.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "DQ279091.2": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "DQ459342.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "EF077630.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "EF570133.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "EU360977.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "EU366959.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "EU375463.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "EU495148.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "EU676172.2": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "EU723512.2": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "EU723513.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "EU723514.2": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "EU723515.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "EU723516.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "FJ426403.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "FJ426404.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "FJ457024.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "FJ527832.2": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "FJ610232.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "FJ653660.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "FJ705359.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "FJ763142.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "FJ906895.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "FJ906896.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "FJ956757.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "FJ998008.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "FJ998015.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "GU119960.2": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "GU119961.3": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "GU188851.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "GU206559.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "GU361892.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "GU937805.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "HM055578.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "HM152568.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "HM439284.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "HQ634346.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "HW532736.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "HW532737.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "JF443717.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "JF443718.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "JF443719.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "JF443720.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "JF443721.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "JF443722.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "JF443723.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "JF443724.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "JF443725.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "JF443726.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "JF915746.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "JN564006.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "JN837481.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "JN906974.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "JN906975.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "JN906976.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "JQ013791.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "JQ013792.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "JQ013793.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "JQ013794.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "JQ013795.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "JQ026407.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "JQ655733.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "JQ655734.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "JQ655735.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "JQ655736.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "JQ679013.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "JQ679014.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "JQ740781.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "JQ953664.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "JQ953665.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "JQ953666.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "JQ993308.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "JX121233.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "JX565469.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "JX855794.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "KC163335.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "KC166967.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "KC166968.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "KC166969.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "KC166970.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "KC166971.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "KC492825.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "KC618402.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "KC618403.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "KC692453.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "KF176351.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "KF303502.2": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "KF736234.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "KF922359.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "KJ155502.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "KJ496143.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "KJ496144.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "KJ507955.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "KJ507956.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "KJ701409.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "KM253769.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "KP294371.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "KP698919.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "KR872414.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "KR872415.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "KR872416.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "KR872417.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "KT159771.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "KT447526.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "KT447527.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "KT447528.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "KT581443.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "KT581444.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "KT581445.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "KT581446.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "KT581447.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "KT581448.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "KT591532.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "KT591533.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "KT591534.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "KT727028.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "KT818608.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "KU176129.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "KU176130.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "KU176131.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "KU176132.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "KU356182.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "KU356183.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "KU356184.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "KU356185.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "KU356186.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "KU356187.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "KU356188.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "KU356189.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "KU513561.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "KU747141.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "KU747142.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "KU980235.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "KX172133.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "KX227751.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "KX387865.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "KX387866.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "KX387867.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "KX462160.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "KX531115.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "KX574712.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "KX578717.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "KX827238.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "KX981911.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "KY232312.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "KY232313.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "KY436505.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "KY436506.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "KY436507.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "KY436898.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "KY496200.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "KY766999.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "KY780957.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "KY929403.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "KY929404.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "L08816.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "L25547.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "L25595.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "LC022745.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "LC037955.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "LC042232.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "LC055972.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "LC055973.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "LC061267.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "LC126331.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "LC126332.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "LC131066.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "LC164712.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "LC176492.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "LC176493.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "LC225387.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "LC260517.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "LC314155.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "LC314156.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "LC314157.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "LC314158.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "LC386855.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "LC387631.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "LC387632.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "LC428039.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "LC436449.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "LC436450.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "LC439299.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "LC484431.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "LC490579.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "M73218.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "M74506.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "M80581.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "M94177.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF346772.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF346773.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444027.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444028.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444029.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444030.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444031.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444032.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444033.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444034.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444035.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444036.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444037.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444038.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444039.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444040.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444041.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444042.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444043.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444044.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444045.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444046.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444047.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444048.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444049.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444050.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444051.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444052.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444053.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444054.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444055.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444056.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444057.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444058.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444059.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444060.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444061.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444062.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444063.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444064.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444065.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444066.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444067.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444068.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444069.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444070.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444071.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444072.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444073.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444074.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444075.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444076.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444077.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444078.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444079.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444080.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444081.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444082.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444083.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444084.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444085.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444086.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444087.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444088.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444089.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444090.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444091.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444092.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444093.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444094.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444095.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444096.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444097.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444098.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444099.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444100.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444101.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444102.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444103.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444104.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444105.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444106.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444107.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444108.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444109.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444110.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444111.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444112.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444113.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444114.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444115.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444116.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444117.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444118.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444119.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444120.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444121.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444122.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444123.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444124.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444125.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444126.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444127.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444128.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444129.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444130.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444131.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444132.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444133.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444134.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444135.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444136.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444137.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444138.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444139.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444140.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444141.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444142.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444143.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444144.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF444145.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF480297.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF480298.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF567575.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF959764.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MF959765.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MG211750.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MG211751.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MG573193.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MG674164.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MG783569.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MG783570.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MG833836.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH074880.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH184579.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH184580.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH184581.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH184582.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH184583.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH184584.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH377721.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH377722.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH377723.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH377724.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH377725.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH377726.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH377727.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH410174.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH410175.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH410176.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH450020.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH450021.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH450022.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH450023.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH450024.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH450025.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH450026.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH450027.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH450028.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH450029.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH450030.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH450031.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH504124.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH504125.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH504126.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH504127.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH504128.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH504129.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH504130.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH504131.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH504132.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH504133.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH504134.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH504135.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH504136.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH504137.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH504138.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH504139.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH504140.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH504141.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH504142.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH504143.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH504144.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH504145.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH504146.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH504147.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH504148.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH504149.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH504150.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH504151.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH504152.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH504153.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH504154.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH504155.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH504156.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH504157.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH504158.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH504159.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH504160.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH504161.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH504162.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH504163.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH809516.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH918640.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH991993.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH991994.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH991995.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH991996.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH991997.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH991998.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH991999.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH992000.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH992001.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH992002.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH992003.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH992004.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH992005.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH992006.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH992007.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH992008.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH992009.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH992010.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH992011.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH992012.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MH992013.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MK050463.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MK089847.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MK089848.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MK089849.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MK330953.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MK390970.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MK390971.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MK410044.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MK410045.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MK410046.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MK410047.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MK410048.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MK410049.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MK410050.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MK410051.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MK410052.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MK410053.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MN401237.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MN401238.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MN614139.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MN614140.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MN614141.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MN629976.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MN646689.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MN646690.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MN646691.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MN646692.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MN646693.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MN646694.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MN646695.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "MN646696.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000000": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000001": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000002": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000003": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000004": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000005": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000006": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000007": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000008": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000009": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000010": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000011": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000012": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000013": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000014": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000015": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000016": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000017": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000018": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000019": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000020": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000021": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000022": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000023": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000024": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000025": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000026": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000027": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000028": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000029": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000030": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000031": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000032": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000033": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000034": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000035": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000036": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000037": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000038": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000039": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000040": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000041": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000042": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000043": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000044": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000045": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000046": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000047": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000048": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000049": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000050": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000051": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000052": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000053": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000054": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000055": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000056": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000057": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000058": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000059": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000060": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000061": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000062": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000063": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000064": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000065": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000066": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000067": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000068": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000069": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000070": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000071": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000072": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000073": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000074": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000075": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000076": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000077": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000078": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000079": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000080": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000081": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000082": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000083": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000084": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000085": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000086": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000087": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000088": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000089": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000090": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000091": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000092": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000093": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000094": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000095": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000096": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000097": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000098": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000099": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000100": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000101": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000102": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000103": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000104": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000105": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000106": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000107": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000108": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000109": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000110": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000111": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000112": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000113": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000114": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000115": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000116": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000117": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000118": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000119": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000120": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000121": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000122": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000123": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000124": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000125": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000126": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000127": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000128": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000129": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000130": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000131": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000132": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000133": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000134": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000135": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000136": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000137": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000138": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000139": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000140": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000141": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000142": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000143": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000144": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000145": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000146": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000147": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000148": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000149": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000150": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000151": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000152": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000153": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000154": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000155": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000156": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000157": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000158": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000159": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000160": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000161": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000162": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000163": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000164": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000167": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000168": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000169": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000170": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000171": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000172": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000173": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000174": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000175": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000176": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000177": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000178": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000179": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000180": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000181": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000182": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000183": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000184": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000185": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000186": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000187": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000188": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000189": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000190": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000191": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000192": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000193": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000194": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000195": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000196": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000197": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000198": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000199": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000200": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000201": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000202": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000203": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000204": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000205": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000206": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000207": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000208": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000209": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000210": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000211": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000212": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000213": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000214": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000215": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000216": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000217": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000218": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000219": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000220": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000221": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000222": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000223": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000224": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000225": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000226": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000227": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000228": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000229": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000230": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000231": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000232": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000233": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000234": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000235": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000236": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000237": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000238": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000239": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000240": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000241": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000242": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000243": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000244": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000245": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000246": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000247": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000248": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000249": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000250": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000253": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000254": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000255": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000256": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000257": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000258": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000259": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000260": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000261": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000262": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000263": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000264": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000265": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000266": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000267": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000268": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000269": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000270": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000271": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000272": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000273": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000274": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000275": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000276": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000277": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000278": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000279": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000280": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000281": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000282": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000283": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000284": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000285": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000286": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000287": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000288": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000289": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000290": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000291": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000292": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000293": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000294": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000295": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000296": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000297": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000298": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000299": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000300": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000301": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000302": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000303": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000304": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000305": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000306": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000307": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000308": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000309": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000310": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000311": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000312": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000313": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000314": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000315": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000316": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000317": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000318": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000319": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000320": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000321": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000322": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000323": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000326": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000327": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000328": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000329": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000330": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000331": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000334": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000335": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000336": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000337": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000338": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000339": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000340": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000341": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000343": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000344": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000345": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000346": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000347": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000348": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000349": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000350": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000354": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000355": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000356": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000357": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000358": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000359": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000362": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000363": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000364": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000365": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000366": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000367": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000368": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000369": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000370": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000371": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000372": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000373": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000374": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000375": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000376": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000377": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000378": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000379": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000380": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000381": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000382": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000383": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000384": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000385": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000386": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000387": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000388": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000389": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000390": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000391": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000392": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000393": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000394": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000395": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000396": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000397": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000398": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000399": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000400": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000401": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000402": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000403": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000404": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000405": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000406": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000407": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000408": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000409": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000410": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000411": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000412": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000413": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000414": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000415": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000416": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000417": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000418": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000419": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000420": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000421": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000422": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000423": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000424": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000425": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000426": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000427": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000428": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000429": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000430": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000431": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000432": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000433": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000434": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000435": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000436": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000437": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000438": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000439": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000440": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000441": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000442": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000443": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000444": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000445": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000446": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000447": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000448": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000449": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000450": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000451": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000452": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000453": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000454": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000455": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000456": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000457": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000459": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000460": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000461": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000462": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000463": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000464": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000465": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000466": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000467": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000468": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000469": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000470": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000471": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000472": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000473": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000474": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000475": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000476": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000477": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000478": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000479": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000480": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000481": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000482": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000483": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000484": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000485": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000486": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000487": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000488": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000489": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000490": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000491": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000492": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000493": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000494": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000495": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000496": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000497": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000498": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000499": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000500": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000501": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000502": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000503": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000504": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000505": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000506": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000507": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000508": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000509": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000510": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000511": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000512": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000513": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000514": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000515": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000516": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000517": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000518": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000519": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000520": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000521": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000522": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000523": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000524": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000525": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000526": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000527": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000528": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000529": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000530": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000531": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000532": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000533": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000534": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000535": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000536": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000537": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000538": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000539": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000540": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000541": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000542": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000543": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000544": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000545": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000546": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000549": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000551": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000552": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000553": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000554": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000555": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000556": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000557": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000558": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000559": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000560": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000561": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000562": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000563": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000564": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000565": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000566": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000567": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000568": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000569": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000570": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000571": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000572": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000573": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000574": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000575": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000576": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000577": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000578": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000579": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000580": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000581": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000582": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000583": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000584": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000585": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000586": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000592": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000593": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000759": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000760": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "NODE_0000774": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "X98292.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    },
+    "X99441.1": {
+      "clade": null,
+      "tbprofiler_lineage": null
+    }
+  }
+}

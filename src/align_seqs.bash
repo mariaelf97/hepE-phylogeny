@@ -1,1 +1,1 @@
-mafft --6merpair --keeplength --addfragments sequences.fasta reference.fasta > aligned.fasta
+mafft --6merpair --keeplength --addfragments metadata/sequences.fasta metadata/reference.fasta > aligned.fasta
